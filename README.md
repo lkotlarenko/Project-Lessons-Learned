@@ -82,8 +82,8 @@ Através desta aplicação, será possível realizar a construção de código H
 
 ## Data de Entrega
 
-  - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Serão `1` dia de projeto.
+  - Data de entrega para avaliação final do projeto: `14/10/2021 - 14:00h`.
 
 ---
 
