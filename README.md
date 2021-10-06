@@ -92,9 +92,9 @@ Através desta aplicação, será possível realizar a construção de código H
 ### Antes de começar a desenvolver
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-0x-project-lessons-learned.git`.
+  * `git clone git@github.com:tryber/sd-017-project-lessons-learned.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-0x-project-lessons-learned`
+    * `cd sd-017-project-lessons-learned`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
@@ -111,7 +111,7 @@ Através desta aplicação, será possível realizar a construção de código H
 
 3. Crie na raiz do projeto os arquivos que você precisará desenvolver:
   * Verifique que você está na raiz do projeto
-    * Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/maria/code/**sd-0x-project-lessons-learned**_
+    * Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/maria/code/**sd-017-project-lessons-learned**_
   * Crie os arquivos index.html e style.css
     * Exemplo: `touch index.html style.css`
 
@@ -131,13 +131,13 @@ Através desta aplicação, será possível realizar a construção de código H
   * Usando o exemplo anterior: `git push -u origin maria-soares-lessons-learned`
 
 6. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-lessons-learned/pulls)
+  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-017-project-lessons-learned/pulls)
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-017-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
 
 --- 
 
