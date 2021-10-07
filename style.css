@@ -59,13 +59,14 @@ main {
 }
 
 .container ul {
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 40px;
 }
 
 .bonus-table {
   align-self: center;
+  padding-left: 22px;
   padding-right: 100px;
+  padding-bottom: 20px;
   border-spacing: 3px;
   display: inline;
   float: left;
