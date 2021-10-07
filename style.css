@@ -18,6 +18,11 @@ main {
   padding: 20px 0 0 20px;
 }
 
+.core-lists {
+  margin-left: 10%;
+  text-align: justify;
+}
+
 #cabecalho {
   top: 0;
   text-align: center;
