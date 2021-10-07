@@ -7,6 +7,12 @@ body {
   background-color: rgb(253, 251, 251);
 }
 
+nav ul li {
+  display: inline-block;
+  text-align: center;
+  padding: 5px 10px;
+}
+
 #cabecalho {
   top: 0;
   text-align: center;
@@ -14,4 +20,14 @@ body {
   height: max-content;
   width: 100%;
   position: fixed;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.nav-link:hover {
+    color: white;
+    font-weight: bolder;
 }
