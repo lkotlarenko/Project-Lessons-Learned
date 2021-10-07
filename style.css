@@ -50,5 +50,13 @@ main {
 
 #contact {
   text-align: center;
-  padding: 20px 0 0 20px;
+  padding-bottom: 20px;
+}
+
+.container {
+  display: inline-block;
+}
+
+.container ul {
+  padding-left: 100px;
 }
