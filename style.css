@@ -26,7 +26,7 @@ main {
 #cabecalho {
   top: 0;
   text-align: center;
-  background-color: #2fc18c;
+  background-color: rgb(47, 193, 140);
   height: max-content;
   width: 100%;
   position: fixed;
@@ -34,12 +34,13 @@ main {
 
 .style-link {
   color: black;
-  font-weight: bold;
+  font-weight: 600;
   text-decoration: none;
 }
+
 .style-link:hover {
-  color: #0b62bb;
-  font-weight: bolder;
+  color: rgb(11, 98, 187);
+  font-weight: 700;
 }
 
 #minha_foto {
@@ -63,9 +64,9 @@ main {
 }
 
 .bonus-table {
-    align-self: center;
-    padding-right: 100px;
-    border-spacing: 3px;
-    display: inline;
-    float: left;
+  align-self: center;
+  padding-right: 100px;
+  border-spacing: 3px;
+  display: inline;
+  float: left;
 }
