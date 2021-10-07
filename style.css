@@ -13,6 +13,11 @@ nav ul li {
   padding: 5px 10px;
 }
 
+main {
+  margin-top: 105px;
+  padding: 20px 0 0 20px;
+}
+
 #cabecalho {
   top: 0;
   text-align: center;
@@ -23,11 +28,21 @@ nav ul li {
 }
 
 .nav-link {
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
 }
 .nav-link:hover {
-    color: white;
-    font-weight: bolder;
+  color: white;
+  font-weight: bolder;
+}
+
+#minha_foto {
+  width: 25vw;
+  height: auto;
+  border-radius: 8%;
+}
+
+#contact {
+  text-align: center;
 }
