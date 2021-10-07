@@ -1,8 +1,17 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
+  margin: 0;
+  padding: 0;
+}
 
-  body {
-      background-color: rgb(253, 251, 251);
-  }
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+  top: 0;
+  text-align: center;
+  background-color: #2fc18c;
+  height: max-content;
+  width: 100%;
+  position: fixed;
+}
