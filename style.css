@@ -23,8 +23,8 @@ section {
 }
 
 article p {
-    font-size: 1rem;
-    line-height: 23px;
+  font-size: 1rem;
+  line-height: 23px;
 }
 
 .core-lists {
@@ -81,10 +81,26 @@ article p {
   float: left;
 }
 
+.lado-esquerdo {
+  float: left;
+  max-width: 40%;
+  padding-bottom: 65px;
+}
+
+.lado-direito {
+  float: right;
+  max-width: 44%;
+  margin-bottom: 20px;
+}
+
 .footer-content {
+  position: fixed;
   font-family: Verdana, sans-serif;
   text-align: center;
   margin: 10px 0 0;
   background-color: rgb(47, 193, 140);
   width: 100%;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
 }
