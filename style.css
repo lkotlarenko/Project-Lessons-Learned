@@ -40,7 +40,7 @@ main {
 
 .style-link:hover {
   color: rgb(11, 98, 187);
-  font-weight: 700;
+  font-weight: 630;
 }
 
 #minha_foto {
@@ -69,4 +69,12 @@ main {
   border-spacing: 3px;
   display: inline;
   float: left;
+}
+
+.footer-content {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 10px 0 0 0;
+  background-color: rgb(47, 193, 140);
+  width: 100%;
 }
