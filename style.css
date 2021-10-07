@@ -27,13 +27,13 @@ main {
   position: fixed;
 }
 
-.nav-link {
-  text-decoration: none;
+.style-link {
   color: black;
   font-weight: bold;
+  text-decoration: none;
 }
-.nav-link:hover {
-  color: white;
+.style-link:hover {
+  color: #0b62bb;
   font-weight: bolder;
 }
 
@@ -45,4 +45,5 @@ main {
 
 #contact {
   text-align: center;
+  padding: 20px 0 0 20px;
 }
