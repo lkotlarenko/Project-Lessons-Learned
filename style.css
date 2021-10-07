@@ -18,6 +18,10 @@ main {
   padding: 20px 0 0 20px;
 }
 
+section {
+  padding-bottom: 20px;
+}
+
 .core-lists {
   margin-left: 10%;
   text-align: justify;
@@ -73,9 +77,9 @@ main {
 }
 
 .footer-content {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Verdana, sans-serif;
   text-align: center;
-  margin: 10px 0 0 0;
+  margin: 10px 0 0;
   background-color: rgb(47, 193, 140);
   width: 100%;
 }
