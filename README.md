@@ -18,6 +18,6 @@ Through this application, it will be possible to carry out HTML code constructio
 ---
 ## Time
 
-- Time spend on this project: '1' day.
+- Time spent on this project: '1' day.
 
 ---
