@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+nav ul li {
+  display: inline-block;
+  text-align: center;
+  padding: 5px 10px;
+}
+
+main {
+  margin-top: 105px;
+  padding: 20px 0 0 20px;
+}
+
+section {
+  padding-bottom: 20px;
+}
+
+article p {
+  font-size: 1rem;
+  line-height: 23px;
+}
+
+.core-lists {
+  margin-left: 10%;
+  text-align: justify;
+}
+
+#cabecalho {
+  top: 0;
+  text-align: center;
+  background-color: rgb(47, 193, 140);
+  height: max-content;
+  width: 100%;
+  position: fixed;
+}
+
+.style-link {
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.style-link:hover {
+  color: rgb(11, 98, 187);
+  font-weight: 630;
+}
+
+#minha_foto {
+  width: 25vw;
+  height: auto;
+  border-radius: 8%;
+}
+
+#contact {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.container {
+  display: inline-block;
+}
+
+.container ul {
+  padding-left: 40px;
+}
+
+.bonus-table {
+  align-self: center;
+  padding-left: 22px;
+  padding-right: 100px;
+  padding-bottom: 20px;
+  border-spacing: 3px;
+  display: inline;
+  float: left;
+}
+
+.lado-esquerdo {
+  float: left;
+  max-width: 40%;
+  padding-bottom: 65px;
+}
+
+.lado-direito {
+  float: right;
+  max-width: 44%;
+  margin-bottom: 20px;
+  padding-right: 20px;
+}
+
+.footer-content {
+  position: fixed;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  margin: 10px 0 0;
+  background-color: rgb(47, 193, 140);
+  width: 100%;
+  bottom: 0;
+}
